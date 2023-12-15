@@ -1,2 +1,2 @@
 # SwiftUI
-Práticas em Swift..
+Práticas em Swift.
